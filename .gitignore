@@ -1,0 +1,21 @@
+# Arquivos de Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes Virtuais
+env/
+
+# Arquivos temporários
+.DS_Store # Para usuários de Mac
+Thumbs.db # Para usuários de Windows
+
+# Pastas e arquivos de desenvolvimento específicos do editor
+# Por exemplo, para o VSCode
+.vscode/
+.DS_Store
+# Arquivos de log
+*.log
+
+# Arquivos de dados sensíveis
+.env
